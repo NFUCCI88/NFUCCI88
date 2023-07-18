@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/NFUCCI88/NFUCCI88/assets/122308711/389fb9d6-1ed5-4e4b-976d-7864ce7f56da" alt="nicolas" />
+   <img align="center" width="200" src="https://github.com/NFUCCI88/NFUCCI88/assets/122308711/b168017e-3838-4b85-b858-20e956b83cf1" alt="nicolas" />
    <h3 align="center">Hi, I'm Nicolas 👋!</h3>
 </p>
 
