@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/NFUCCI88/NFUCCI88/assets/122308711/b168017e-3838-4b85-b858-20e956b83cf1" alt="nicolas" />
+  
    <h3 align="center">Hi, I'm Nicolas 👋!</h3>
 </p>
 
@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/nicolas-fucci" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="fuccinicolas" height="38px" width="38px" />
   </a>
-  <a href="fuccinicolas@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/gmail.png" alt="fuccinicols" height="38px" width="38px" />
+  <a target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/gmail.png" alt="fuccinicolas" height="38px" width="38px" float=left <br>fuccinicolas@gmail.com 
   </a>
 
 </p>
