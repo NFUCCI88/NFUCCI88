@@ -8,7 +8,10 @@
 <p align="center">Connect with me 👇</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/nicolas-fucci" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="dantedenicolo" height="38px" width="38px" />
+    <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="fuccinicolas" height="38px" width="38px" />
+  </a>
+  <a href="fuccinicolas@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/gmail.png" alt="fuccinicols" height="38px" width="38px" />
   </a>
 
 </p>
