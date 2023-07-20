@@ -7,7 +7,7 @@
 <p align="center">Highly skilled Full Stack Web Developer with experience in MERN stack development and leading teams, focused on user experience and performance optimization. Fluent English and Spanish, with exceptional communication and leadership skills which enable effective task coordination and cross-functional team collaboration.</p>
 <p align="center">Connect with me 👇</p>
 <p align="center">
-  <a href="https://linkedin.com/in/NFUCCI88" target="blank">
+  <a href="https://www.linkedin.com/in/nicolas-fucci" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="dantedenicolo" height="38px" width="38px" />
   </a>
 
